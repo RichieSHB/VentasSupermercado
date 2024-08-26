@@ -1,0 +1,354 @@
+Fecha de venta,Producto,Categoría,Precio,Cantidad vendida,Método de pago,Sucursal,Total
+2023-11-15,Café,Bebidas,27.9,17.0,Tarjeta de débito,Sucursal A,474.29999999999995
+2023-07-17,Café,Bebidas,10.08,4.0,Efectivo,Sucursal C,40.32
+2023-03-19,Manzanas,Frutas,34.3,18.0,Tarjeta de débito,Sucursal C,617.4
+2023-02-21,Pollo,Carnes,52.73,19.0,Tarjeta de crédito,Sucursal A,1001.8699999999999
+2023-05-18,Manzanas,Frutas,73.49,4.0,PayPal,Sucursal B,293.96
+2023-01-15,Pasta,Granos,1.33,7.0,Tarjeta de crédito,Sucursal A,9.31
+2023-03-16,Huevos,Carnes,47.26,10.0,PayPal,Sucursal B,472.59999999999997
+2023-03-30,Arroz,Granos,30.4,18.0,Efectivo,Sucursal C,547.1999999999999
+2023-12-07,Café,Bebidas,85.43,19.0,Tarjeta de crédito,Sucursal C,1623.17
+2023-06-06,Arroz,Granos,71.84,4.0,Efectivo,Sucursal B,287.36
+2023-08-30,Café,Bebidas,59.32,10.0,Efectivo,Sucursal B,593.2
+2023-12-02,Naranjas,Frutas,28.45,1.0,PayPal,Sucursal A,28.45
+2023-03-05,Plátanos,Frutas,91.12,18.0,PayPal,Sucursal C,1640.16
+2023-09-30,Pasta,Granos,5.46,5.0,PayPal,Sucursal A,27.3
+2023-03-14,Pollo,Carnes,11.84,15.0,Tarjeta de crédito,Sucursal A,177.6
+2023-09-20,Café,Bebidas,39.77,17.0,Tarjeta de débito,Sucursal A,676.09
+2023-04-21,Arroz,Granos,13.32,3.0,PayPal,Sucursal C,39.96
+2023-04-06,Pasta,Granos,95.69,12.0,PayPal,Sucursal A,1148.28
+2023-08-14,Leche,Lácteos,26.64,1.0,PayPal,Sucursal A,26.64
+2023-09-08,Pollo,Carnes,98.25,16.0,Efectivo,Sucursal A,1572.0
+2023-10-30,Arroz,Granos,60.48,15.0,PayPal,Sucursal C,907.1999999999999
+2023-08-03,Plátanos,Frutas,90.47,3.0,Efectivo,Sucursal A,271.40999999999997
+2023-05-20,Arroz,Granos,74.59,11.0,Efectivo,Sucursal A,820.49
+2023-11-21,Huevos,Carnes,7.43,10.0,PayPal,Sucursal A,74.3
+2023-07-21,Naranjas,Frutas,40.76,9.0,Tarjeta de débito,Sucursal C,366.84
+2023-04-28,Pasta,Granos,83.94,14.0,Tarjeta de débito,Sucursal C,1175.1599999999999
+2023-07-04,Café,Bebidas,5.65,7.0,PayPal,Sucursal C,39.550000000000004
+2023-06-21,Huevos,Carnes,39.02,18.0,Efectivo,Sucursal A,702.36
+2023-09-09,Manzanas,Frutas,4.64,3.0,PayPal,Sucursal C,13.919999999999998
+2023-02-05,Leche,Lácteos,95.77,10.0,PayPal,Sucursal B,957.6999999999999
+2023-02-12,Huevos,Carnes,80.28,9.0,Tarjeta de débito,Sucursal B,722.52
+2023-05-04,Huevos,Carnes,63.35,17.0,Efectivo,Sucursal A,1076.95
+2023-12-14,Pan,Granos,22.42,11.0,Tarjeta de crédito,Sucursal C,246.62
+2023-05-17,Manzanas,Frutas,52.31,7.0,Tarjeta de crédito,Sucursal B,366.17
+2023-12-05,Pollo,Carnes,60.13,14.0,Efectivo,Sucursal A,841.82
+2023-07-17,Pan,Granos,52.98,19.0,PayPal,Sucursal A,1006.6199999999999
+2023-05-19,Pan,Granos,26.76,4.0,Tarjeta de crédito,Sucursal C,107.04
+2023-11-22,Arroz,Granos,52.01,6.0,Tarjeta de crédito,Sucursal C,312.06
+2023-05-08,Leche,Lácteos,49.63,10.0,PayPal,Sucursal C,496.3
+2023-02-06,Leche,Lácteos,89.85,13.0,Tarjeta de débito,Sucursal A,1168.05
+2023-09-23,Naranjas,Frutas,46.87,14.0,PayPal,Sucursal C,656.18
+2023-06-27,Pollo,Carnes,75.04,8.0,Efectivo,Sucursal B,600.32
+2023-04-06,Plátanos,Frutas,89.6,1.0,Tarjeta de crédito,Sucursal C,89.6
+2023-08-12,Naranjas,Frutas,46.29,3.0,PayPal,Sucursal A,138.87
+2023-04-09,Manzanas,Frutas,39.73,9.0,Efectivo,Sucursal A,357.57
+2023-01-15,Pollo,Carnes,28.02,8.0,Tarjeta de crédito,Sucursal C,224.16
+2023-08-28,Naranjas,Frutas,48.19,1.0,Tarjeta de débito,Sucursal B,48.19
+2023-05-02,Café,Bebidas,5.39,6.0,Tarjeta de débito,Sucursal B,32.339999999999996
+2023-07-19,Arroz,Granos,85.37,9.0,Efectivo,Sucursal B,768.33
+2023-03-06,Pan,Granos,33.58,4.0,Tarjeta de débito,Sucursal B,134.32
+2023-08-19,Café,Bebidas,93.23,13.0,Efectivo,Sucursal A,1211.99
+2023-06-26,Arroz,Granos,28.86,2.0,PayPal,Sucursal B,57.72
+2023-09-10,Pan,Granos,1.5,12.0,PayPal,Sucursal C,18.0
+2023-02-08,Manzanas,Frutas,69.88,8.0,PayPal,Sucursal C,559.04
+2023-10-09,Café,Bebidas,5.83,6.0,Tarjeta de débito,Sucursal B,34.980000000000004
+2023-09-05,Café,Bebidas,53.73,8.0,PayPal,Sucursal A,429.84
+2023-03-08,Manzanas,Frutas,96.25,18.0,Tarjeta de débito,Sucursal A,1732.5
+2023-09-25,Plátanos,Frutas,11.84,3.0,Tarjeta de crédito,Sucursal A,35.519999999999996
+2023-11-21,Huevos,Carnes,89.55,12.0,Efectivo,Sucursal A,1074.6
+2023-11-29,Pasta,Granos,99.16,3.0,Efectivo,Sucursal A,297.48
+2023-07-12,Pan,Granos,88.41,2.0,PayPal,Sucursal B,176.82
+2023-01-25,Arroz,Granos,90.74,2.0,Efectivo,Sucursal A,181.48
+2023-11-03,Arroz,Granos,54.83,3.0,Efectivo,Sucursal A,164.49
+2023-10-11,Naranjas,Frutas,52.6,12.0,Tarjeta de crédito,Sucursal B,631.2
+2023-10-12,Huevos,Carnes,25.28,5.0,Tarjeta de débito,Sucursal B,126.4
+2023-02-08,Pasta,Granos,16.58,13.0,Efectivo,Sucursal C,215.53999999999996
+2023-03-18,Pan,Granos,16.88,15.0,Tarjeta de crédito,Sucursal A,253.2
+2023-07-09,Manzanas,Frutas,34.07,16.0,PayPal,Sucursal B,545.12
+2023-05-19,Café,Bebidas,11.48,12.0,Tarjeta de débito,Sucursal A,137.76
+2023-10-21,Café,Bebidas,70.2,17.0,Tarjeta de crédito,Sucursal A,1193.4
+2023-02-01,Arroz,Granos,88.28,12.0,PayPal,Sucursal B,1059.3600000000001
+2023-04-28,Leche,Lácteos,96.17,8.0,PayPal,Sucursal C,769.36
+2023-11-22,Pan,Granos,88.03,16.0,Tarjeta de crédito,Sucursal B,1408.48
+2023-09-14,Café,Bebidas,23.63,8.0,Efectivo,Sucursal A,189.04
+2023-08-10,Huevos,Carnes,90.96,5.0,Tarjeta de crédito,Sucursal A,454.79999999999995
+2023-07-17,Pan,Granos,1.11,8.0,PayPal,Sucursal A,8.88
+2023-11-29,Leche,Lácteos,56.06,12.0,Tarjeta de débito,Sucursal A,672.72
+2023-12-04,Plátanos,Frutas,75.91,1.0,Efectivo,Sucursal A,75.91
+2023-06-06,Leche,Lácteos,26.61,6.0,Tarjeta de crédito,Sucursal C,159.66
+2023-07-03,Café,Bebidas,20.12,18.0,Tarjeta de débito,Sucursal C,362.16
+2023-05-19,Café,Bebidas,9.33,8.0,Efectivo,Sucursal C,74.64
+2023-08-04,Naranjas,Frutas,33.32,7.0,Tarjeta de débito,Sucursal C,233.24
+2023-06-05,Café,Bebidas,56.42,1.0,Tarjeta de crédito,Sucursal A,56.42
+2023-06-01,Manzanas,Frutas,12.47,16.0,Tarjeta de crédito,Sucursal C,199.52
+2023-06-22,Pollo,Carnes,38.29,12.0,PayPal,Sucursal A,459.48
+2023-09-25,Leche,Lácteos,82.05,2.0,Tarjeta de crédito,Sucursal B,164.1
+2023-02-08,Pollo,Carnes,13.72,14.0,Efectivo,Sucursal C,192.08
+2023-07-24,Arroz,Granos,29.05,4.0,PayPal,Sucursal C,116.2
+2023-10-27,Plátanos,Frutas,2.82,1.0,Efectivo,Sucursal A,2.82
+2023-07-03,Leche,Lácteos,84.17,13.0,Tarjeta de crédito,Sucursal B,1094.21
+2023-05-17,Pollo,Carnes,39.82,2.0,Tarjeta de débito,Sucursal A,79.64
+2023-12-26,Naranjas,Frutas,75.62,2.0,Tarjeta de crédito,Sucursal C,151.24
+2023-04-25,Manzanas,Frutas,18.2,1.0,Efectivo,Sucursal A,18.2
+2023-01-11,Naranjas,Frutas,77.31,11.0,Efectivo,Sucursal A,850.4100000000001
+2023-08-08,Pan,Granos,94.78,3.0,Efectivo,Sucursal A,284.34000000000003
+2023-09-09,Manzanas,Frutas,77.33,18.0,Efectivo,Sucursal A,1391.94
+2023-09-08,Café,Bebidas,6.73,11.0,Tarjeta de crédito,Sucursal B,74.03
+2023-04-04,Plátanos,Frutas,8.39,15.0,Tarjeta de crédito,Sucursal A,125.85000000000001
+2023-12-26,Naranjas,Frutas,85.39,5.0,Efectivo,Sucursal A,426.95
+2023-04-09,Plátanos,Frutas,99.02,10.0,Efectivo,Sucursal C,990.1999999999999
+2023-12-11,Naranjas,Frutas,67.93,12.0,PayPal,Sucursal B,815.1600000000001
+2023-02-15,Arroz,Granos,45.15,15.0,Tarjeta de crédito,Sucursal C,677.25
+2023-04-11,Manzanas,Frutas,65.11,17.0,Efectivo,Sucursal B,1106.87
+2023-12-31,Café,Bebidas,59.85,10.0,Efectivo,Sucursal A,598.5
+2023-02-28,Pollo,Carnes,38.98,6.0,Efectivo,Sucursal C,233.88
+2023-11-02,Café,Bebidas,37.81,3.0,Tarjeta de débito,Sucursal C,113.43
+2023-07-30,Plátanos,Frutas,82.06,10.0,Tarjeta de crédito,Sucursal B,820.6
+2023-10-04,Naranjas,Frutas,26.0,14.0,Tarjeta de débito,Sucursal B,364.0
+2023-07-10,Pasta,Granos,1.1,6.0,Efectivo,Sucursal B,6.6000000000000005
+2023-12-24,Arroz,Granos,16.73,3.0,PayPal,Sucursal B,50.19
+2023-06-18,Leche,Lácteos,47.39,16.0,PayPal,Sucursal A,758.24
+2023-01-30,Café,Bebidas,94.49,7.0,Tarjeta de débito,Sucursal C,661.43
+2023-05-27,Pollo,Carnes,53.18,15.0,PayPal,Sucursal C,797.7
+2023-08-28,Leche,Lácteos,82.77,3.0,Tarjeta de débito,Sucursal C,248.31
+2023-02-14,Pan,Granos,86.94,18.0,Tarjeta de crédito,Sucursal A,1564.92
+2023-06-07,Pasta,Granos,96.36,10.0,PayPal,Sucursal C,963.6
+2023-08-02,Pollo,Carnes,4.1,2.0,PayPal,Sucursal B,8.2
+2023-03-13,Naranjas,Frutas,73.4,1.0,Tarjeta de débito,Sucursal C,73.4
+2023-05-06,Manzanas,Frutas,91.04,4.0,Tarjeta de crédito,Sucursal A,364.16
+2023-09-20,Naranjas,Frutas,85.88,14.0,PayPal,Sucursal A,1202.32
+2023-12-13,Plátanos,Frutas,76.25,14.0,Tarjeta de débito,Sucursal B,1067.5
+2023-01-25,Manzanas,Frutas,44.79,16.0,PayPal,Sucursal C,716.64
+2023-06-15,Pollo,Carnes,32.75,3.0,PayPal,Sucursal A,98.25
+2023-11-11,Pan,Granos,74.84,9.0,Tarjeta de débito,Sucursal B,673.5600000000001
+2023-07-07,Arroz,Granos,71.78,2.0,Tarjeta de crédito,Sucursal B,143.56
+2023-06-08,Naranjas,Frutas,47.68,2.0,Efectivo,Sucursal A,95.36
+2023-07-05,Pasta,Granos,54.78,4.0,PayPal,Sucursal C,219.12
+2023-10-18,Manzanas,Frutas,16.77,15.0,PayPal,Sucursal C,251.54999999999998
+2023-09-19,Manzanas,Frutas,21.17,4.0,Efectivo,Sucursal B,84.68
+2023-07-26,Leche,Lácteos,10.03,13.0,Tarjeta de débito,Sucursal C,130.39
+2023-10-05,Pasta,Granos,30.12,11.0,Efectivo,Sucursal B,331.32
+2023-12-03,Naranjas,Frutas,91.27,2.0,Tarjeta de crédito,Sucursal B,182.54
+2023-05-11,Pasta,Granos,96.78,19.0,Tarjeta de débito,Sucursal A,1838.82
+2023-02-15,Arroz,Granos,19.36,19.0,Efectivo,Sucursal A,367.84
+2023-09-14,Leche,Lácteos,46.75,5.0,Tarjeta de crédito,Sucursal B,233.75
+2023-06-18,Naranjas,Frutas,1.12,19.0,PayPal,Sucursal C,21.28
+2023-02-07,Pan,Granos,61.12,10.0,Tarjeta de débito,Sucursal A,611.1999999999999
+2023-10-11,Naranjas,Frutas,56.28,11.0,PayPal,Sucursal A,619.08
+2023-06-11,Pasta,Granos,23.33,18.0,Tarjeta de crédito,Sucursal C,419.93999999999994
+2023-12-21,Leche,Lácteos,16.92,15.0,Efectivo,Sucursal B,253.8
+2023-10-24,Pan,Granos,65.5,9.0,PayPal,Sucursal A,589.5
+2023-06-18,Leche,Lácteos,33.27,19.0,Tarjeta de débito,Sucursal A,632.1300000000001
+2023-06-22,Pan,Granos,59.44,9.0,Efectivo,Sucursal B,534.96
+2023-04-14,Arroz,Granos,43.89,3.0,Tarjeta de débito,Sucursal A,131.67000000000002
+2023-05-05,Pasta,Granos,98.45,9.0,PayPal,Sucursal C,886.0500000000001
+2023-01-21,Arroz,Granos,15.81,14.0,Tarjeta de débito,Sucursal C,221.34
+2023-01-26,Pan,Granos,47.0,19.0,Tarjeta de crédito,Sucursal A,893.0
+2023-01-09,Café,Bebidas,68.37,7.0,Tarjeta de débito,Sucursal C,478.59000000000003
+2023-04-27,Café,Bebidas,40.16,16.0,Efectivo,Sucursal A,642.56
+2023-08-27,Arroz,Granos,97.5,16.0,Tarjeta de débito,Sucursal B,1560.0
+2023-05-17,Café,Bebidas,72.47,1.0,Tarjeta de débito,Sucursal A,72.47
+2023-02-17,Plátanos,Frutas,90.87,8.0,PayPal,Sucursal C,726.96
+2023-05-04,Pasta,Granos,72.7,17.0,PayPal,Sucursal A,1235.9
+2023-02-02,Café,Bebidas,75.17,5.0,Efectivo,Sucursal C,375.85
+2023-02-14,Café,Bebidas,15.45,7.0,PayPal,Sucursal A,108.14999999999999
+2023-11-18,Manzanas,Frutas,11.18,4.0,PayPal,Sucursal A,44.72
+2023-04-08,Huevos,Carnes,57.52,6.0,PayPal,Sucursal B,345.12
+2023-07-27,Arroz,Granos,2.82,7.0,PayPal,Sucursal B,19.74
+2023-03-20,Café,Bebidas,21.82,5.0,PayPal,Sucursal B,109.1
+2023-02-01,Pasta,Granos,35.26,3.0,Tarjeta de crédito,Sucursal C,105.78
+2023-11-22,Plátanos,Frutas,8.17,7.0,Tarjeta de débito,Sucursal A,57.19
+2023-08-30,Pan,Granos,53.89,5.0,Tarjeta de crédito,Sucursal C,269.45
+2023-09-11,Huevos,Carnes,9.17,2.0,Tarjeta de débito,Sucursal C,18.34
+2023-05-19,Manzanas,Frutas,32.89,10.0,PayPal,Sucursal A,328.9
+2023-10-08,Leche,Lácteos,20.89,5.0,Efectivo,Sucursal A,104.45
+2023-11-22,Pasta,Granos,5.08,18.0,Efectivo,Sucursal A,91.44
+2023-03-26,Leche,Lácteos,95.2,18.0,Efectivo,Sucursal A,1713.6000000000001
+2023-12-03,Huevos,Carnes,13.3,5.0,Tarjeta de débito,Sucursal A,66.5
+2023-06-19,Naranjas,Frutas,89.73,13.0,PayPal,Sucursal A,1166.49
+2023-07-08,Huevos,Carnes,59.88,4.0,Tarjeta de débito,Sucursal C,239.52
+2023-05-25,Café,Bebidas,61.68,3.0,Tarjeta de débito,Sucursal A,185.04
+2023-11-29,Café,Bebidas,30.58,17.0,Tarjeta de débito,Sucursal B,519.86
+2023-10-27,Naranjas,Frutas,93.58,11.0,Efectivo,Sucursal B,1029.3799999999999
+2023-04-10,Arroz,Granos,94.79,4.0,Tarjeta de débito,Sucursal C,379.16
+2023-06-13,Café,Bebidas,61.61,18.0,Tarjeta de crédito,Sucursal C,1108.98
+2023-08-12,Leche,Lácteos,48.96,8.0,PayPal,Sucursal C,391.68
+2023-06-20,Pollo,Carnes,66.42,3.0,Tarjeta de crédito,Sucursal B,199.26
+2023-05-06,Pasta,Granos,55.75,9.0,Tarjeta de débito,Sucursal C,501.75
+2023-12-04,Manzanas,Frutas,78.6,10.0,PayPal,Sucursal A,786.0
+2023-08-18,Naranjas,Frutas,48.61,10.0,Tarjeta de crédito,Sucursal B,486.1
+2023-04-27,Manzanas,Frutas,17.24,17.0,PayPal,Sucursal B,293.08
+2023-03-11,Pasta,Granos,44.42,9.0,PayPal,Sucursal B,399.78000000000003
+2023-06-19,Manzanas,Frutas,59.73,9.0,Tarjeta de crédito,Sucursal C,537.5699999999999
+2023-05-11,Huevos,Carnes,65.38,9.0,PayPal,Sucursal A,588.42
+2023-08-20,Huevos,Carnes,61.96,2.0,Efectivo,Sucursal B,123.92
+2023-11-19,Pan,Granos,47.55,1.0,Efectivo,Sucursal B,47.55
+2023-08-04,Pan,Granos,43.93,8.0,Tarjeta de crédito,Sucursal C,351.44
+2023-10-09,Leche,Lácteos,5.32,11.0,PayPal,Sucursal A,58.52
+2023-10-10,Naranjas,Frutas,17.01,2.0,Tarjeta de débito,Sucursal B,34.02
+2023-03-23,Naranjas,Frutas,3.07,8.0,Efectivo,Sucursal C,24.56
+2023-03-15,Leche,Lácteos,65.67,8.0,Tarjeta de débito,Sucursal B,525.36
+2023-11-18,Plátanos,Frutas,54.71,15.0,Tarjeta de crédito,Sucursal C,820.65
+2023-02-28,Pasta,Granos,49.83,17.0,Tarjeta de débito,Sucursal C,847.11
+2023-05-17,Manzanas,Frutas,9.07,13.0,Tarjeta de crédito,Sucursal B,117.91
+2023-03-23,Manzanas,Frutas,40.92,19.0,Tarjeta de débito,Sucursal C,777.48
+2023-01-01,Pan,Granos,22.84,5.0,Tarjeta de crédito,Sucursal B,114.2
+2023-04-05,Huevos,Carnes,42.42,12.0,Tarjeta de crédito,Sucursal B,509.04
+2023-06-10,Huevos,Carnes,21.15,1.0,Efectivo,Sucursal C,21.15
+2023-02-08,Naranjas,Frutas,84.2,5.0,Tarjeta de crédito,Sucursal A,421.0
+2023-09-08,Arroz,Granos,18.25,8.0,Efectivo,Sucursal C,146.0
+2023-12-21,Pasta,Granos,96.12,13.0,PayPal,Sucursal A,1249.56
+2023-06-13,Pollo,Carnes,84.78,11.0,Efectivo,Sucursal B,932.58
+2023-10-08,Huevos,Carnes,63.25,1.0,Efectivo,Sucursal A,63.25
+2023-04-02,Pan,Granos,77.0,19.0,Tarjeta de débito,Sucursal A,1463.0
+2023-02-08,Café,Bebidas,54.79,17.0,PayPal,Sucursal B,931.43
+2023-06-08,Café,Bebidas,59.22,8.0,Tarjeta de crédito,Sucursal C,473.76
+2023-04-27,Pollo,Carnes,3.91,14.0,Tarjeta de crédito,Sucursal C,54.74
+2023-05-25,Café,Bebidas,40.16,4.0,Tarjeta de débito,Sucursal B,160.64
+2023-08-25,Pasta,Granos,79.5,19.0,Tarjeta de crédito,Sucursal A,1510.5
+2023-03-31,Pasta,Granos,36.56,11.0,Efectivo,Sucursal C,402.16
+2023-10-20,Manzanas,Frutas,39.0,5.0,Efectivo,Sucursal B,195.0
+2023-07-05,Pan,Granos,47.12,5.0,Tarjeta de crédito,Sucursal A,235.6
+2023-08-03,Leche,Lácteos,83.76,8.0,Tarjeta de débito,Sucursal A,670.08
+2023-07-24,Naranjas,Frutas,24.34,10.0,Tarjeta de crédito,Sucursal B,243.4
+2023-08-25,Huevos,Carnes,77.82,6.0,PayPal,Sucursal A,466.91999999999996
+2023-09-29,Plátanos,Frutas,41.13,15.0,Tarjeta de crédito,Sucursal A,616.95
+2023-03-12,Naranjas,Frutas,60.58,16.0,Tarjeta de crédito,Sucursal A,969.28
+2023-05-25,Pan,Granos,63.62,17.0,PayPal,Sucursal A,1081.54
+2023-10-16,Plátanos,Frutas,51.75,8.0,Efectivo,Sucursal B,414.0
+2023-06-24,Café,Bebidas,41.89,9.0,Efectivo,Sucursal A,377.01
+2023-05-27,Pan,Granos,10.64,18.0,PayPal,Sucursal C,191.52
+2023-03-31,Arroz,Granos,41.1,3.0,Tarjeta de crédito,Sucursal C,123.30000000000001
+2023-05-17,Pollo,Carnes,59.7,17.0,Tarjeta de débito,Sucursal C,1014.9000000000001
+2023-08-26,Manzanas,Frutas,58.36,4.0,Efectivo,Sucursal C,233.44
+2023-12-05,Huevos,Carnes,66.6,4.0,Tarjeta de débito,Sucursal B,266.4
+2023-07-08,Plátanos,Frutas,65.56,9.0,PayPal,Sucursal A,590.04
+2023-04-18,Manzanas,Frutas,31.9,9.0,Tarjeta de crédito,Sucursal C,287.09999999999997
+2023-07-03,Pan,Granos,40.51,18.0,Tarjeta de crédito,Sucursal B,729.18
+2023-11-03,Pasta,Granos,1.89,4.0,Efectivo,Sucursal A,7.56
+2023-10-22,Huevos,Carnes,59.25,12.0,Efectivo,Sucursal B,711.0
+2023-09-10,Manzanas,Frutas,60.27,8.0,Tarjeta de débito,Sucursal C,482.16
+2023-11-26,Manzanas,Frutas,40.27,2.0,PayPal,Sucursal A,80.54
+2023-04-17,Plátanos,Frutas,24.47,13.0,PayPal,Sucursal C,318.11
+2023-04-18,Pasta,Granos,24.23,16.0,Efectivo,Sucursal C,387.68
+2023-09-14,Naranjas,Frutas,88.49,2.0,Efectivo,Sucursal C,176.98
+2023-08-13,Pan,Granos,33.76,10.0,Tarjeta de crédito,Sucursal C,337.59999999999997
+2023-11-01,Huevos,Carnes,67.27,17.0,PayPal,Sucursal C,1143.59
+2023-11-06,Manzanas,Frutas,15.43,8.0,Efectivo,Sucursal A,123.44
+2023-04-03,Pan,Granos,45.49,18.0,Efectivo,Sucursal C,818.82
+2023-01-28,Pan,Granos,59.2,9.0,Tarjeta de crédito,Sucursal B,532.8000000000001
+2023-09-04,Huevos,Carnes,94.91,8.0,Tarjeta de crédito,Sucursal C,759.28
+2023-07-14,Arroz,Granos,38.56,12.0,Efectivo,Sucursal A,462.72
+2023-12-14,Pan,Granos,60.95,19.0,Tarjeta de crédito,Sucursal C,1158.05
+2023-11-18,Pan,Granos,36.32,14.0,Tarjeta de débito,Sucursal B,508.48
+2023-11-13,Café,Bebidas,78.4,3.0,Efectivo,Sucursal A,235.20000000000002
+2023-04-20,Café,Bebidas,70.83,7.0,Efectivo,Sucursal B,495.81
+2023-03-13,Pasta,Granos,54.45,15.0,PayPal,Sucursal A,816.75
+2023-07-11,Manzanas,Frutas,4.38,18.0,PayPal,Sucursal A,78.84
+2023-07-03,Naranjas,Frutas,98.68,13.0,Efectivo,Sucursal A,1282.8400000000001
+2023-04-15,Leche,Lácteos,13.17,8.0,Tarjeta de crédito,Sucursal A,105.36
+2023-02-13,Plátanos,Frutas,23.25,7.0,Efectivo,Sucursal C,162.75
+2023-09-27,Pollo,Carnes,18.82,12.0,Tarjeta de débito,Sucursal A,225.84
+2023-01-01,Arroz,Granos,9.77,11.0,Tarjeta de débito,Sucursal B,107.47
+2023-10-08,Café,Bebidas,11.23,11.0,Tarjeta de débito,Sucursal C,123.53
+2023-08-10,Café,Bebidas,58.88,13.0,Tarjeta de crédito,Sucursal B,765.44
+2023-04-27,Plátanos,Frutas,2.72,15.0,Efectivo,Sucursal B,40.800000000000004
+2023-03-13,Pan,Granos,58.43,13.0,PayPal,Sucursal A,759.59
+2023-04-17,Pasta,Granos,26.17,11.0,PayPal,Sucursal A,287.87
+2023-08-10,Manzanas,Frutas,52.65,5.0,Tarjeta de débito,Sucursal A,263.25
+2023-04-06,Pan,Granos,53.69,3.0,Efectivo,Sucursal B,161.07
+2023-04-21,Plátanos,Frutas,14.14,7.0,PayPal,Sucursal A,98.98
+2023-02-08,Naranjas,Frutas,15.21,12.0,PayPal,Sucursal C,182.52
+2023-03-29,Arroz,Granos,94.04,15.0,Tarjeta de crédito,Sucursal C,1410.6000000000001
+2023-04-28,Huevos,Carnes,73.56,5.0,PayPal,Sucursal B,367.8
+2023-10-25,Plátanos,Frutas,17.08,15.0,Tarjeta de débito,Sucursal B,256.2
+2023-03-26,Huevos,Carnes,19.65,8.0,Tarjeta de débito,Sucursal C,157.2
+2023-02-24,Plátanos,Frutas,73.35,10.0,PayPal,Sucursal C,733.5
+2023-03-23,Plátanos,Frutas,16.46,16.0,Tarjeta de débito,Sucursal B,263.36
+2023-11-29,Plátanos,Frutas,24.22,8.0,Tarjeta de débito,Sucursal B,193.76
+2023-11-03,Naranjas,Frutas,96.37,1.0,PayPal,Sucursal C,96.37
+2023-11-04,Plátanos,Frutas,26.28,12.0,Efectivo,Sucursal A,315.36
+2023-03-17,Leche,Lácteos,66.5,5.0,Tarjeta de crédito,Sucursal B,332.5
+2023-07-05,Huevos,Carnes,38.06,1.0,Efectivo,Sucursal C,38.06
+2023-03-23,Pollo,Carnes,25.17,8.0,Tarjeta de débito,Sucursal C,201.36
+2023-12-12,Arroz,Granos,83.26,3.0,Tarjeta de crédito,Sucursal A,249.78000000000003
+2023-09-12,Manzanas,Frutas,12.2,11.0,Tarjeta de crédito,Sucursal A,134.2
+2023-10-08,Leche,Lácteos,91.95,14.0,Efectivo,Sucursal A,1287.3
+2023-09-04,Pollo,Carnes,94.15,2.0,Efectivo,Sucursal C,188.3
+2023-05-22,Manzanas,Frutas,82.86,9.0,PayPal,Sucursal B,745.74
+2023-08-15,Café,Bebidas,67.03,16.0,PayPal,Sucursal C,1072.48
+2023-04-29,Manzanas,Frutas,58.14,13.0,Tarjeta de crédito,Sucursal C,755.82
+2023-11-21,Pollo,Carnes,16.77,4.0,Tarjeta de crédito,Sucursal C,67.08
+2023-05-03,Pan,Granos,60.89,10.0,Tarjeta de débito,Sucursal C,608.9
+2023-12-20,Plátanos,Frutas,32.49,12.0,PayPal,Sucursal A,389.88
+2023-04-28,Huevos,Carnes,86.78,17.0,Tarjeta de crédito,Sucursal C,1475.26
+2023-02-19,Pan,Granos,99.34,14.0,Tarjeta de débito,Sucursal C,1390.76
+2023-07-30,Plátanos,Frutas,75.49,14.0,Efectivo,Sucursal A,1056.86
+2023-10-22,Arroz,Granos,65.4,19.0,Tarjeta de débito,Sucursal A,1242.6000000000001
+2023-10-08,Huevos,Carnes,76.75,6.0,Tarjeta de débito,Sucursal A,460.5
+2023-04-09,Leche,Lácteos,44.38,5.0,Tarjeta de débito,Sucursal C,221.9
+2023-05-22,Pollo,Carnes,90.24,4.0,Tarjeta de débito,Sucursal B,360.96
+2023-10-20,Leche,Lácteos,87.91,15.0,Efectivo,Sucursal C,1318.6499999999999
+2023-04-03,Pollo,Carnes,32.4,4.0,PayPal,Sucursal C,129.6
+2023-01-24,Pasta,Granos,87.02,10.0,Efectivo,Sucursal A,870.1999999999999
+2023-05-09,Naranjas,Frutas,38.19,3.0,Efectivo,Sucursal A,114.57
+2023-12-02,Naranjas,Frutas,30.39,5.0,Efectivo,Sucursal C,151.95
+2023-11-20,Plátanos,Frutas,65.26,6.0,PayPal,Sucursal B,391.56000000000006
+2023-12-10,Naranjas,Frutas,63.39,7.0,PayPal,Sucursal C,443.73
+2023-10-01,Naranjas,Frutas,61.37,10.0,Efectivo,Sucursal C,613.6999999999999
+2023-06-17,Huevos,Carnes,55.02,17.0,Efectivo,Sucursal C,935.34
+2023-09-24,Pan,Granos,45.0,7.0,Tarjeta de débito,Sucursal C,315.0
+2023-02-06,Huevos,Carnes,2.45,4.0,PayPal,Sucursal B,9.8
+2023-11-16,Manzanas,Frutas,59.12,14.0,Tarjeta de crédito,Sucursal B,827.68
+2023-07-12,Pan,Granos,17.68,3.0,Tarjeta de crédito,Sucursal B,53.04
+2023-07-26,Pasta,Granos,64.62,5.0,PayPal,Sucursal B,323.1
+2023-01-20,Café,Bebidas,76.18,16.0,PayPal,Sucursal A,1218.88
+2023-06-14,Plátanos,Frutas,50.54,4.0,Efectivo,Sucursal B,202.16
+2023-07-21,Manzanas,Frutas,54.69,2.0,Efectivo,Sucursal A,109.38
+2023-03-12,Pasta,Granos,84.87,19.0,Tarjeta de débito,Sucursal B,1612.5300000000002
+2023-07-27,Café,Bebidas,91.51,19.0,Efectivo,Sucursal A,1738.69
+2023-09-25,Pasta,Granos,81.56,17.0,PayPal,Sucursal B,1386.52
+2023-12-18,Huevos,Carnes,15.75,19.0,Tarjeta de débito,Sucursal C,299.25
+2023-11-27,Pollo,Carnes,53.14,13.0,Efectivo,Sucursal C,690.82
+2023-04-17,Leche,Lácteos,40.04,4.0,Efectivo,Sucursal A,160.16
+2023-01-25,Pollo,Carnes,74.94,16.0,Tarjeta de crédito,Sucursal B,1199.04
+2023-01-12,Leche,Lácteos,82.42,17.0,Tarjeta de crédito,Sucursal A,1401.14
+2023-05-06,Pollo,Carnes,43.66,1.0,Tarjeta de débito,Sucursal A,43.66
+2023-06-10,Huevos,Carnes,89.77,18.0,Efectivo,Sucursal A,1615.86
+2023-04-25,Café,Bebidas,8.06,17.0,Tarjeta de débito,Sucursal A,137.02
+2023-02-02,Pollo,Carnes,65.81,11.0,Tarjeta de débito,Sucursal A,723.9100000000001
+2023-01-04,Café,Bebidas,20.52,1.0,Tarjeta de débito,Sucursal A,20.52
+2023-01-27,Naranjas,Frutas,62.12,16.0,Tarjeta de débito,Sucursal C,993.92
+2023-07-24,Arroz,Granos,52.79,15.0,PayPal,Sucursal B,791.85
+2023-12-29,Café,Bebidas,93.03,6.0,PayPal,Sucursal C,558.1800000000001
+2023-08-09,Huevos,Carnes,53.69,15.0,Efectivo,Sucursal A,805.3499999999999
+2023-05-12,Naranjas,Frutas,58.51,14.0,Tarjeta de crédito,Sucursal B,819.14
+2023-05-17,Arroz,Granos,40.59,9.0,PayPal,Sucursal B,365.31000000000006
+2023-03-26,Café,Bebidas,82.49,5.0,Efectivo,Sucursal B,412.45
+2023-05-19,Arroz,Granos,52.73,10.0,Tarjeta de crédito,Sucursal C,527.3
+2023-12-09,Manzanas,Frutas,86.08,3.0,Tarjeta de crédito,Sucursal C,258.24
+2023-12-10,Huevos,Carnes,19.27,11.0,PayPal,Sucursal A,211.97
+2023-04-28,Café,Bebidas,30.23,17.0,Tarjeta de crédito,Sucursal A,513.91
+2023-07-06,Pasta,Granos,79.55,13.0,Efectivo,Sucursal B,1034.1499999999999
+2023-01-13,Pasta,Granos,43.03,13.0,Tarjeta de débito,Sucursal C,559.39
+2023-07-24,Leche,Lácteos,9.62,19.0,Tarjeta de crédito,Sucursal C,182.77999999999997
+2023-02-08,Pasta,Granos,53.12,3.0,Efectivo,Sucursal A,159.35999999999999
+2023-02-11,Plátanos,Frutas,12.12,14.0,Tarjeta de crédito,Sucursal C,169.67999999999998
+2023-09-20,Huevos,Carnes,64.16,5.0,Tarjeta de débito,Sucursal B,320.79999999999995
+2023-05-07,Plátanos,Frutas,52.0,5.0,PayPal,Sucursal B,260.0
+2023-07-24,Pollo,Carnes,59.76,17.0,PayPal,Sucursal B,1015.92
+2023-03-24,Pollo,Carnes,79.58,10.0,PayPal,Sucursal B,795.8
+2023-11-11,Naranjas,Frutas,18.3,4.0,Tarjeta de crédito,Sucursal A,73.2
+2023-09-07,Café,Bebidas,36.72,6.0,Tarjeta de crédito,Sucursal C,220.32
+2023-10-18,Manzanas,Frutas,16.77,15.0,PayPal,Sucursal C,251.54999999999998
+2023-07-16,Café,Bebidas,82.17,19.0,Tarjeta de crédito,Sucursal A,1561.23
+2023-11-19,Pan,Granos,47.55,1.0,Efectivo,Sucursal B,47.55
+2023-07-13,Pasta,Granos,26.01,5.0,Tarjeta de débito,Sucursal B,130.05
+2023-04-06,Pan,Granos,53.69,3.0,Efectivo,Sucursal B,161.07
+2023-12-26,Naranjas,Frutas,85.39,5.0,Efectivo,Sucursal A,426.95
+2023-05-30,Pan,Granos,57.56,6.0,Tarjeta de crédito,Sucursal A,345.36
+2023-03-11,Pan,Granos,25.51,2.0,PayPal,Sucursal C,51.02
+2023-09-04,Pollo,Carnes,94.15,2.0,Efectivo,Sucursal C,188.3
+2023-05-17,Pollo,Carnes,39.82,2.0,Tarjeta de débito,Sucursal A,79.64
